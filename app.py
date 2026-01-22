@@ -42,4 +42,4 @@ app = gr.Interface(
     title="Diabetes Prediction",
 )
 
-app.launch()
+app.launch(share=True)
